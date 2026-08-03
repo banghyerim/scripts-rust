@@ -1,0 +1,2 @@
+# scripts-rust
+rust project
